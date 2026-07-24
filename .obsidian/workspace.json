@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d326e5f4369ed7b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "efe8e620ac6f5897",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Introduction.md"
+              "title": "README"
             }
           }
         ]
@@ -213,20 +197,20 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false,
       "slides-extended:Show slide preview": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "efe8e620ac6f5897",
+  "active": "44504bc92b06d21c",
   "lastOpenFiles": [
-    "README.md",
     "Introduction.md",
+    "README.md",
     "Excalidraw/Drawing 2026-07-23 12.48.46.excalidraw.md",
     "Excalidraw/Drawing 2026-07-23 12.48.45.excalidraw.md",
     "Excalidraw"
