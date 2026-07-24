@@ -9,6 +9,7 @@ theme: simple
 
 ## Who I Am
 - Percy
+- SWE as my day job
 - Kind of an oldhead
 - I like to draw and learn things
 

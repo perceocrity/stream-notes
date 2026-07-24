@@ -11,14 +11,30 @@
             "id": "44504bc92b06d21c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f0ce154caafd2900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3419557759b447dc",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Introduction.md"
             }
           }
         ]
